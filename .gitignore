@@ -2,3 +2,10 @@
 node_modules
 package-lock.json
 .env
+/.vs/Jacob-Evans-iwh-i-practicum/FileContentIndex/341a8e79-0fa0-4583-9f4e-3a42f95da79f.vsidx
+/.vs/Jacob-Evans-iwh-i-practicum/FileContentIndex/3e507f3f-9098-431d-9f59-526c2db0f777.vsidx
+/.vs/Jacob-Evans-iwh-i-practicum/FileContentIndex/6e21474a-1e2a-4a0d-99f0-c939f0ab17ca.vsidx
+/.vs/Jacob-Evans-iwh-i-practicum/FileContentIndex/9a8327df-be9f-4393-acdc-6d22494bf3d8.vsidx
+/.vs/Jacob-Evans-iwh-i-practicum/FileContentIndex/c668f9d9-affc-4cff-8f6e-b68a5c889a24.vsidx
+*.vsidx
+/.vs
